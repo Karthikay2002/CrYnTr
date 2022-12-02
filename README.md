@@ -3,7 +3,10 @@ Team We3DeGames presents you the best On-Boarding Application for the Crypto-Eco
 
 # Problem Statement & Proposed Solution:
 
-TL;DR: 
+# TL;DR: 
+
+# A Bit More About The Project: 
+
 
 # Prize Tracks We Applied For: 
 1. 
@@ -19,8 +22,8 @@ TL;DR:
 
 # Tech Stack We Used: 
 
+# Challenges We Ran Into: 
 
-# A Bit More About The Project: 
 
 # Demo Video of The Project:
 Link: 
