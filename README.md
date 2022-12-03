@@ -4,7 +4,8 @@ Team We3DeGames presents you the best On-Boarding Application for the Crypto-Eco
 # Problem Statement & Proposed Solution:
 There are always people waiting to understand the concepts and the world of Crypto Markets. The wait time, or LEARN TIME, for these guys is always very high or usually left away due to lack of interest and "time". 
 
-We are building a Web-based application where users, usually newbies, show interest to join the crypto-ecosystem to learn, earn, and interact while playing. CrYnTr (Crypto-Enter) is a Metaverse based web-application with the main intention to on-board as many as newbies to the world of crypto in the best immersieve and interactive way as possible. We built our application with the intention to keep every user stuck to our application; newbie, intermediate, and investors etc. Our users, upon entering the application would be able to see a few options to see their portfolio, know their attention tokens, called ATOMS (in-app coins). 
+There are multiple Metaverse with X,Y,Z; but imagine a Metaverse with the ability to visualize your portfolio. A metaverse that can provide Risk Analysis, A metaverse that can provide Mirror investing, A metaverse that can provide you a community of Crypto-junkies to collboartate and interact. (Detailed explanaiton in the hbottom of the page). 
+We are building a novel Web-based application where users, usually **newbies**, show interest to join the crypto-ecosystem in **Metaverse** to learn, earn, and interact while playing. CrYnTr (Crypto-Enter) is a Metaverse based web-application with the main intention to on-board as many as newbies to the world of crypto in the best immersieve and interactive way as possible. We built our application with the intention to keep every user stuck to our application; newbie, intermediate, and investors etc. Our users, upon entering the application would be able to see a few options to see their portfolio, know their attention tokens, called ATOMS (in-app coins). 
 
 We have multiple features to keep the users intact with the application:
 1. Community Support: 
@@ -12,6 +13,7 @@ We have multiple features to keep the users intact with the application:
 3. News Updates: 
 4. Risk Managment 
 5. Mirror Investing
+6. Dashboard Analytics: 
 
 # TL;DR: 
 Metaverse + Islands and characters to simulate your crypto portfolio + Immersive Experience via interacting with your investments while trading and holding your "assets".
