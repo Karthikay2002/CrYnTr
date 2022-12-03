@@ -8,7 +8,7 @@ We are building a Web-based application where users, usually newbies, show inter
 
 We have multiple features to keep the users intact with the application:
 1. Community Support: 
-2. Easy Gasless On-boarding
+2. Easy On-boarding
 3. News Updates: 
 4. Risk Managment 
 5. Mirror Investing
