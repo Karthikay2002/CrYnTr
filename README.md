@@ -23,8 +23,6 @@ We have multiple features to keep the users intact with the application:
 # TL;DR: 
 Metaverse + Islands and characters to simulate your crypto portfolio + Immersive Experience via interacting with your investments while trading and holding your "assets".
 
-# A Bit More About The Project: 
-
 
 # Prize Tracks We Applied For: 
 1. Huddle01
@@ -35,25 +33,41 @@ Metaverse + Islands and characters to simulate your crypto portfolio + Immersive
 
 # Development Flow: 
 1. Account Abstraction: 
-    We used **ABC**
+    We used MEtamask for account Abstraction that allows a seamsless intergrtion with Chrome Extention.
 2. Smart Contracts:
-    We used **ABC**
+    We deployed Smart Contracts on Mumbai Test for in-game currency (ATOMS).
 3. Balance:
-    We used **ABC**
+    We used Covalent API to get all the available balances from across the available networks to display as penguins on screen.  
 4. Anayltics:
-    We used **ABC**
+    We used DUNE API to provide advanced Analystics from Intermediatory users in the application. 
 5. Chat & Notifications:
-    We used **ABC**
+    We used Huddle01 to provide face-to-face interactions with the community. 
 6. Mirror Investments:
-    We used **ABC**
-
+    We used a Firebase as our backend to store non-critical datato provide for other users. 
+    
 # Tech Stack We Used: 
-1. ABC
-2. DEF
-3. 
+1. Unity
+2. TensorFlow
+3. Python 
+4. React
+5. FastAPI
+6. NodeJs
+7. Dune
+8. Covalent
 
 # Challenges We Ran Into: 
-1. Integrating
-2. 
+1. Network issues to get certain resources to develop the ML Model for our Risk Managment Services
+2. Integrating multiple API's into the Metaverse, that's built on Unity Engine
+3. Machine Learning and Deep Learning Models for these curriences are built on M1 Architecture (Apple's Macbook), hence migrated to X86 architecture. 
+4. Developing interactive assets in our metaverse. 
 
 # Images of The Project: 
+1. ![Cryntr](https://user-images.githubusercontent.com/54672017/205471956-09eb4d6a-9b34-4614-a4f7-6573df405875.JPG) 
+2. ![Island_1](https://user-images.githubusercontent.com/54672017/205471906-60a853bc-2599-4bf0-b075-e54a147ed0c8.jpg)
+3. ![Island_2](https://user-images.githubusercontent.com/54672017/205471908-74373e7b-0411-40dc-859c-9c39660c05e4.jpg)
+4. ![Dashboard](https://user-images.githubusercontent.com/54672017/205471935-b2dc907f-e4cf-486f-98fd-8fe0e3b2828b.jpg)
+5. ![Loss_Curve](https://user-images.githubusercontent.com/54672017/205471940-9ebbb3e7-9cbb-478e-bf2e-7a9d55a6dbdf.png)
+6. ![Accuracy_Curve](https://user-images.githubusercontent.com/54672017/205471944-d9c00a4c-d603-4608-97e5-002cbcb3fc5a.png)
+ 
+ # Demo Video Link
+ 1. 
