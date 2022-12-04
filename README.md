@@ -14,13 +14,11 @@ We have multiple features to keep the users intact with the application:
 
 2. Easy On-boarding: Just a two-step process to enter the world of Cryptoverse! Cryptoworld is all about Privacy and Anonmity. 
 
-3. News Updates: 
+3. Risk Managment:  
 
-4. Risk Managment:  
+4. Mirror Investing
 
-5. Mirror Investing
-
-6. Dashboard Analytics: 
+5. Dashboard Analytics: 
 
 # TL;DR: 
 Metaverse + Islands and characters to simulate your crypto portfolio + Immersive Experience via interacting with your investments while trading and holding your "assets".
@@ -30,13 +28,10 @@ Metaverse + Islands and characters to simulate your crypto portfolio + Immersive
 
 # Prize Tracks We Applied For: 
 1. Huddle01
-2. Revise
-3. Covalent
-4. Dune
-5. Polygon
-6. Push Protocol
-7. IPFS
-8. Valist
+2. Covalent
+3. Dune
+4. Polygon
+5. Push Protocol
 
 # Development Flow: 
 1. Account Abstraction: 
